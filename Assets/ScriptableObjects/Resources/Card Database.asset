@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78fa3af9c9b7efd479169353bd6a2b0b, type: 3}
+  m_Name: Card Database
+  m_EditorClassIdentifier: 
+  fighterCards:
+  - {fileID: 11400000, guid: 3d57b19b6cf197047ba79bab8db11311, type: 2}
+  - {fileID: 11400000, guid: ef3f97fceb0fe414f92c0f2bfe33bcd2, type: 2}
+  - {fileID: 11400000, guid: 87c8b99621d47dd4eb471ff120073c64, type: 2}
+  - {fileID: 11400000, guid: 2534edd10a5ffce40972a17452022811, type: 2}
+  - {fileID: 11400000, guid: 3ab1f8a1c4ce61e4f94f2c59d4e05562, type: 2}

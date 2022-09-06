@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf5d94e25b50fb4084815efa2f5a85f, type: 3}
+  m_Name: GalacticFighter
+  m_EditorClassIdentifier: 
+  name: Galactic Fighter
+  description: Why is this galactic fighter even a part of this card set? Sheeesh
+  frontSprite: {fileID: 21300000, guid: 7f014e04b91d5324c9057daf2b7c3c0c, type: 3}
+  backSprite: {fileID: 21300000, guid: 5cb122c12a6fb04489c59c63f31340c8, type: 3}
+  experience: 0
+  cardType: 0
+  health: 4
+  attack: 1
+  speed: 2
+  defense: 1
+  level: 1
+  learnableMoves:
+  - abilityBase: {fileID: 11400000, guid: 171631b4cd750aa42acdd5a0262042f6, type: 2}
+    level: 1
+  - abilityBase: {fileID: 11400000, guid: 85c1eb77709026c4bba58cdd7cfa1029, type: 2}
+    level: 2

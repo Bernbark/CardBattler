@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf5d94e25b50fb4084815efa2f5a85f, type: 3}
+  m_Name: BloodAcolyte
+  m_EditorClassIdentifier: 
+  name: Blood Acolyte
+  description: He wears red robes.
+  frontSprite: {fileID: 21300000, guid: 46f8b5687b9fc5b4b8de2cf8cbe1eee3, type: 3}
+  backSprite: {fileID: 21300000, guid: 5cb122c12a6fb04489c59c63f31340c8, type: 3}
+  experience: 0
+  cardType: 0
+  health: 2
+  attack: 1
+  speed: 1
+  defense: 2
+  level: 1
+  learnableMoves:
+  - abilityBase: {fileID: 11400000, guid: 171631b4cd750aa42acdd5a0262042f6, type: 2}
+    level: 0
